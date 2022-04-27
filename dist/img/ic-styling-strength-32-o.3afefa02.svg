@@ -1,0 +1,19 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient x1="13.815%" y1="16.163%" x2="84.902%" y2="87.124%" id="fefiuw565a">
+            <stop stop-color="#FFCB76" offset="0%"/>
+            <stop stop-color="#FFE367" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g transform="translate(1 1)" fill="url(#fefiuw565a)" fill-rule="evenodd">
+        <circle cx="15" cy="15" r="8"/>
+        <circle cx="15" cy="2.143" r="2.143"/>
+        <circle cx="15" cy="27.857" r="2.143"/>
+        <circle transform="rotate(45 24.091 5.909)" cx="24.091" cy="5.909" r="2.143"/>
+        <circle transform="rotate(45 5.909 24.091)" cx="5.909" cy="24.091" r="2.143"/>
+        <circle transform="rotate(135 24.091 24.091)" cx="24.091" cy="24.091" r="2.143"/>
+        <circle transform="rotate(135 5.909 5.909)" cx="5.909" cy="5.909" r="2.143"/>
+        <circle transform="rotate(-90 2.143 15)" cx="2.143" cy="15" r="2.143"/>
+        <circle transform="rotate(-90 27.857 15)" cx="27.857" cy="15" r="2.143"/>
+    </g>
+</svg>
