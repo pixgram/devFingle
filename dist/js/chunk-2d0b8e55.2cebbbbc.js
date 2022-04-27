@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b8e55"],{3145:function(t,e,n){"use strict";n.r(e);var c=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",[n("sticky-item",[n("div",{staticStyle:{background:"yellow"}},[t._v("스티키 컴퍼넌트")])])],1)},i=[],s={name:"sticky-test"},a=s,l=n("2877"),u=Object(l["a"])(a,c,i,!1,null,"09149299",null);e["default"]=u.exports}}]);
-//# sourceMappingURL=chunk-2d0b8e55.2cebbbbc.js.map
