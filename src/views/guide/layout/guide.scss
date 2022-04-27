@@ -1,0 +1,73 @@
+/* layout */ /*
+html,
+body {
+  min-height: 100vh;
+}
+body {
+  height: 100%;
+}*/
+
+#wrap {
+  display: block;
+}
+.title-guide {
+  margin-bottom: 40px;
+  font-family: 'SpoqaHanSansNeo', sans-serif;
+  font-size: 31px;
+  color: #111827;
+  text-transform: capitalize;
+}
+h1,
+h2,
+h3 {
+  font-family: 'SpoqaHanSansNeo', sans-serif;
+  letter-spacing: 0;
+}
+.h1 {
+  font-size: 30px;
+  margin-bottom: 30px;
+  color: #111827;
+}
+.h2 {
+  margin: 40px 0 10px;
+  color: #7680ff;
+  font-weight: bold;
+}
+.h3 {
+  margin: 20px 0 5px;
+  font-size: 14px;
+  color: #888;
+}
+hr {
+  border-top: 2px solid $gray-30;
+  margin: 50px 0;
+}
+pre {
+  &:before {
+    margin-top: 15px;
+    display: block;
+    content: 'Example Code';
+    font-family: 'Arial', sans-serif;
+    font-size: 11px;
+    padding: 6px 10px;
+    background-color: #282b2e;
+    border-radius: 4px 4px 0 0;
+    font-weight: bold;
+    color: #7c7c7c;
+    border-bottom: 1px solid #222;
+  }
+}
+.hljs {
+  line-height: 1.5;
+  padding: 12px 15px 15px !important;
+  border-radius: 0 0 4px 4px;
+  font-size: 15px;
+  font-family: consolas, sans-serif;
+  word-spacing: 0.2em;
+  letter-spacing: 0.01em;
+}
+.dsc {
+  margin: 10px 0 20px;
+  font-size: 12px;
+  color: #888;
+}

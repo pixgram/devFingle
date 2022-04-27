@@ -1,0 +1,35 @@
+$safeTop: env(safe-area-inset-top);
+$safeBottom: env(safe-area-inset-bottom);
+$h100: calc(var(--vh, 1vh) * 100);
+
+/* Color */
+$white: #fff;
+$black: #000;
+
+$gray-10: #fafafa;
+$gray-20: #f7f7f7;
+$gray-30: #eee;
+$gray-40: #ddd;
+$gray-50: #bbb;
+$gray-60: #888;
+$gray-70: #444;
+
+$mint-10: #effaf7;
+$mint-20: #def8f2;
+$mint-30: #adeddc;
+$mint-40: #72e1c5;
+$mint-50: #00d4ac;
+$mint-60: #00bc99;
+
+$orange-05: #ffefe9;
+$orange-10: #ffd9ca;
+$orange-20: #ffaa89;
+$orange-30: #ff7031;
+$orange-40: #fe5600;
+$orange-50: #f36519;
+
+$error: #ee0000;
+
+$images: '../../assets/images';
+
+$maxWidth: 600px;
